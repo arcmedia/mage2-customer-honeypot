@@ -2,7 +2,7 @@
     "name": "arcmedia/mage2-customer-honeypot",
     "description": "Spam Protection for Magento2 Customer Registration",
     "type": "magento2-module",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "license": [
         "MIT"
     ],
